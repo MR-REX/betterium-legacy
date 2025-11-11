@@ -1,4 +1,4 @@
-# Betterium
+# Betterium (Legacy)
 
 Betterium is a powerful Java library designed to streamline the creation and management of clients for the "Better Than Adventure!" game modification.
 Whether you are building a custom launcher or need a reliable way to handle multiple client versions, Betterium provides a robust and flexible solution.
